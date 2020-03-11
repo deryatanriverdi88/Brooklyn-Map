@@ -1,0 +1,26 @@
+body{
+    background: #46A0A0;
+    }
+    
+    path{
+        fill: url(#MyGradient); 
+    }
+    
+    svg{
+          margin-top: 50px;
+          margin-left: 100px;
+    }
+    
+    textpath{
+        font-family: 'Permanent Marker', cursive;
+        color: white;
+        position: absolute;
+        top: 1em;
+        left: 1em;
+        letter-spacing:3px;
+        font-size: 15px;
+    }
+    
+    #curve{
+        fill: none;
+    }
